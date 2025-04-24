@@ -1,31 +1,8 @@
-
-# Telegram Clone
-
-![Telegram Clone Logo](https://via.placeholder.com/150)
+# Telegram Clone 📱
 
 A full-featured Telegram Clone built with Expo, Supabase, and Stream Chat. This application replicates the essential functionalities of the popular messaging platform, including text messaging, profile editing, media sharing, reactions, replies, and message pinning.
 
-## Table of Contents
-
-- [Technologies](#technologies)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Demo](#demo)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Technologies
-
-This project is built using the following technologies:
-
-- **Expo**: A framework and platform for universal React applications. Used for building the front-end of the app.
-- **Supabase**: An open-source Firebase alternative for real-time databases and authentication. Used for managing user data and chat history.
-- **Stream Chat**: A powerful messaging API that allows you to build rich, scalable chat applications. Used for handling real-time messaging, reactions, and media sharing.
-
-## Features
+## 🚀 Features
 
 - **Real-time Messaging**: Send and receive messages in real-time using Stream Chat.
 - **Profile Editing**: Users can edit their profile including name, picture, and bio.
@@ -35,7 +12,15 @@ This project is built using the following technologies:
 - **Pin Messages**: Pin important messages to the top of the chat.
 - **Authentication**: Sign in and sign up using Supabase.
 
-## Getting Started
+## 🛠️ Technologies
+
+This project is built using the following technologies:
+
+- **Expo**: A framework and platform for universal React applications. Used for building the front-end of the app.
+- **Supabase**: An open-source Firebase alternative for real-time databases and authentication. Used for managing user data and chat history.
+- **Stream Chat**: A powerful messaging API that allows you to build rich, scalable chat applications. Used for handling real-time messaging, reactions, and media sharing.
+
+## ⚙️ Getting Started
 
 ### Prerequisites
 
@@ -91,7 +76,7 @@ Once the app is running, users can:
 - Reply to specific messages within the chat.
 - Pin important messages.
 
-## Demo
+## 🌍 Demo
 
 Here’s a brief demo of the Telegram Clone app in action:
 
@@ -99,39 +84,39 @@ Here’s a brief demo of the Telegram Clone app in action:
 - **Main Chat Screen:** View and send messages, upload media, and react.
 - **Profile Screen:** Edit user profile details.
 
-## Screenshots
+## 🖼️ Screenshots
 
-![Sign In Screen](assets/images/demo/1.png)
+![Sign In Screen](demo/1.png)
 *Sign In Screen*
 
-![Main Chat Screen](assets/images/demo/2.png)
+![Main Chat Screen](demo/2.png)
 *Main Chat Screen*
 
-![Main Chat Screen](assets/images/demo/3.png)
+![Main Chat Screen](demo/3.png)
 *Main Chat Screen*
 
-![Main Chat Screen](assets/images/demo/4.png)
+![Main Chat Screen](demo/4.png)
 *Main Chat Screen*
 
-![List Users Screen](assets/images/demo/5.png)
+![List Users Screen](demo/5.png)
 *List Users Screen*
 
-![Send Image](assets/images/demo/6.png)
+![Send Image](demo/6.png)
 *Send Image*
 
-![Reaction](assets/images/demo/7.png)
+![Reaction](demo/7.png)
 *Message Reaction*
 
-![Reply to Message](assets/images/demo/8.png)
+![Reply to Message](demo/8.png)
 *Reply to Message*
 
-![Pinned Message](assets/images/demo/9.png)
+![Pinned Message](demo/9.png)
 *Pinned Message*
 
-![Profile Edit](assets/images/demo/10.png)
+![Profile Edit](demo/10.png)
 *Profile Edit*
 
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
