@@ -86,35 +86,15 @@ Here’s a brief demo of the Telegram Clone app in action:
 
 ## 🖼️ Screenshots
 
-![Sign In Screen](demo/1.PNG)
-*Sign In Screen*
-
-![Main Chat Screen](demo/2.PNG)
-*Main Chat Screen*
-
-![Main Chat Screen](demo/3.PNG)
-*Main Chat Screen*
-
-![Main Chat Screen](demo/4.PNG)
-*Main Chat Screen*
-
-![List Users Screen](demo/5.PNG)
-*List Users Screen*
-
-![Send Image](demo/6.PNG)
-*Send Image*
-
-![Reaction](demo/7.PNG)
-*Message Reaction*
-
-![Reply to Message](demo/8.PNG)
-*Reply to Message*
-
-![Pinned Message](demo/9.PNG)
-*Pinned Message*
-
-![Profile Edit](demo/10.PNG)
-*Profile Edit*
+| Sign In Screen | Main Chat Screen | Main Chat Screen |
+|----------------|------------------|------------|
+| ![](demo/1.PNG) | ![](demo/2.PNG) | ![](demo/3.PNG) |
+| Main Chat Screen | List Users Screen| Send Image|
+| ![](demo/4.PNG) | ![](demo/5.PNG) | ![](demo/6.PNG) |
+| Reaction | Reply to Message | Pinned Message
+| ![](demo/7.PNG) | ![](demo/8.PNG) | ![](demo/9.PNG) |
+| Profile Edit | 
+| ![](demo/10.PNG) | 
 
 
 ## 🤝 Contributing
