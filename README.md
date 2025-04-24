@@ -87,7 +87,7 @@ Here’s a brief demo of the Telegram Clone app in action:
 ## 🖼️ Screenshots
 
 | Sign In Screen | Main Chat Screen | Main Chat Screen | Main Chat Screen |
-|----------------|------------------|------------|
+|----------------|------------------|------------|------------|
 | ![](demo/1.PNG) | ![](demo/2.PNG) | ![](demo/3.PNG) | ![](demo/4.PNG) |
 | List Users Screen| Send Image| Reaction | Reply to Message |
 | ![](demo/5.PNG) | ![](demo/6.PNG) | ![](demo/7.PNG) | ![](demo/8.PNG) |
