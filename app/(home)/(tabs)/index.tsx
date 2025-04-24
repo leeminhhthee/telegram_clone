@@ -24,7 +24,7 @@ export default function MainTabScreen() {
                 size={22}
                 color="gray"
                 style={{ marginHorizontal: 15 }}
-                />
+              />
             </Link>
           ),
         }}
